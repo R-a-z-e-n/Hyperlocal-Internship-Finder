@@ -1,0 +1,33 @@
+Scrapping Code (python + collab + ml + BeautifulSoup) :
+
+Task
+Scrape internship listings from Internshala, extract job title, company name, location, stipend, and the direct link, save the data to a CSV file named 'internshala_internships.csv', and then push this data to a Supabase database.
+
+Scrape Internshala Listings
+Subtask:
+Write Python code to scrape internship listings from Internshala using requests to fetch the page content and BeautifulSoup to parse the HTML. This step will focus on gathering the raw HTML data.
+
+Reasoning: I will write a Python code block to import the necessary libraries, define the Internshala URL, send an HTTP GET request, check the response status, parse the HTML content using BeautifulSoup, and print a portion of the parsed HTML to confirm successful scraping.
+
+import requests
+from bs4 import BeautifulSoup
+
+# 1. Define the URL of the Internshala internship listings page
+url = 'https://internshala.com/internships'
+
+# 2. Send an HTTP GET request to the URL and store the response
+response = requests.get(url)
+
+# 3. Check if the request was successful
+if response.status_code == 200:
+    print("Successfully fetched the page content. Status code: 200")
+    
+    # 4. Parse the HTML content of the response using BeautifulSoup
+    soup = BeautifulSoup(response.content, 'html.parser')
+    
+    # 5. Print a portion of the parsed HTML to confirm
+    print("\n--- Parsed HTML Snippet ---")
+    print(soup.prettify()[:500]) # Print first 500 characters of prettified HTML
+    print("\nPage Title:", soup.title.string)
+else:
+    print(f"Failed to fetch page content. Status code: {response.status_code}")
