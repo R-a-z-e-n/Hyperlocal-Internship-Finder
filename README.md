@@ -12,7 +12,7 @@ This project integrates **scraping, AI matching, recruiter insights, and automat
 - **Miro Board (Research & Flows):** [View Miro](https://miro.com/app/board/uXjVG3HpbzE=/?share_link_id=715179393918)  
 - **Visily.ai Designs (UI Mockups):** [View Designs](https://app.visily.ai/projects/4c37c480-dc38-4bdc-a1f2-5aa965698596/boards/2510657)  
 - **Jira Roadmap:** [View Jira](https://sfcollab.atlassian.net/jira/polaris/projects/HI/ideas/view/11488203?fullscreen=true)  
-
+  View the app on : https://ai.studio/apps/d852cdf2-e310-4cfc-b496-75615fafa615
 ---
 
 ## 🛠️ Tech Stack
