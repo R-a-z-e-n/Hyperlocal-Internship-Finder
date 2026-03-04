@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🌍 Hyperlocal Internship Finder
 
 An AI-first platform designed to **connect Tier 3 students with local internship opportunities**.  
@@ -118,9 +115,6 @@ Dashboards:
 - **Phase 3:** Recruiter Dashboard  
 - **Phase 4:** Placement Probability Predictor  
 
----
 
 ## 📜 License
 MIT License © 2026 Mohammad Razeen Iqbal
-```
-
