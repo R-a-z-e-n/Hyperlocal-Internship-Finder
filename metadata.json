@@ -1,0 +1,5 @@
+{
+  "name": "Hyperlocal Internship Finder",
+  "description": "A platform to find and apply for internships near your current location with a map-based interface.",
+  "requestFramePermissions": ["geolocation"]
+}

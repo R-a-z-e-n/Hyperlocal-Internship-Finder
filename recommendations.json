@@ -1,0 +1,76 @@
+{ 
+   "recommended_internships": [ 
+     { 
+       "company": "Google", 
+       "role": "Product Management Intern", 
+       "location": "Bangalore / Remote", 
+       "reason": "Ideal for students with analytical thinking, user research exposure, and cross-functional project experience. Google's APM internship focuses on problem-solving and product strategy — core PM skills." 
+     }, 
+     { 
+       "company": "Microsoft", 
+       "role": "Program Manager Intern", 
+       "location": "Hyderabad / Noida", 
+       "reason": "Matches students with technical background + communication skills. Microsoft PM internships emphasize roadmap planning, stakeholder management, and data-driven decision making." 
+     }, 
+     { 
+       "company": "Razorpay", 
+       "role": "Product Analyst Intern", 
+       "location": "Bangalore", 
+       "reason": "Strong fit for students with SQL, Excel, or basic data analysis skills. Razorpay values structured thinkers who can translate business problems into product insights." 
+     }, 
+     { 
+       "company": "Zoho", 
+       "role": "Product Management Intern", 
+       "location": "Chennai / Remote", 
+       "reason": "Zoho actively recruits from Tier 2 and Tier 3 colleges. Offers hands-on product ownership exposure with small, agile teams. Great for building foundational PM skills." 
+     }, 
+     { 
+       "company": "Freshworks", 
+       "role": "Associate Product Manager Intern", 
+       "location": "Chennai / Bangalore", 
+       "reason": "Freshworks APM program is structured for students transitioning into PM roles. Requires curiosity, user empathy, and basic prototyping or wireframing knowledge." 
+     }, 
+     { 
+       "company": "Internshala", 
+       "role": "Product & Growth Intern", 
+       "location": "Remote / Delhi", 
+       "reason": "Accessible to students with no prior PM experience. Covers growth experiments, user feedback loops, and feature testing — excellent for building a PM portfolio." 
+     }, 
+     { 
+       "company": "Swiggy", 
+       "role": "Product Operations Intern", 
+       "location": "Bangalore", 
+       "reason": "Ideal for students interested in ops-heavy product roles. Exposure to supply-demand balancing, merchant tooling, and last-mile delivery metrics." 
+     }, 
+     { 
+       "company": "BYJU'S / PhysicsWallah", 
+       "role": "EdTech Product Intern", 
+       "location": "Remote / Bangalore / Noida", 
+       "reason": "Strong match for students passionate about education technology. Focuses on learner engagement metrics, content product decisions, and A/B testing." 
+     } 
+   ], 
+   "fit_evaluation": { 
+     "fit_score": 42, 
+     "strengths": [ 
+       "Demonstrates intent to pursue Product Management — a clear career direction that recruiters value", 
+       "Academic background provides foundational analytical and problem-solving capabilities", 
+       "Familiarity with digital products as an end-user supports user empathy development", 
+       "Openness to internship roles indicates growth mindset — critical for early-career PM candidates", 
+       "If located near major tech hubs (Bangalore, Hyderabad, Delhi), geographic accessibility increases opportunities" 
+     ], 
+     "gaps": [ 
+       "Resume placeholder '[PASTE RESUME HERE]' was submitted — no actual skills, experience, or projects evaluated", 
+       "No technical tools listed (Figma, SQL, Jira, Mixpanel, Google Analytics, Miro)", 
+       "No quantified project outcomes or internship experience present to demonstrate real-world impact", 
+       "Missing product portfolio: case studies, product teardowns, or side projects would significantly boost fit score", 
+       "No evidence of cross-functional exposure (working with engineering, design, or business teams)", 
+       "Student skills and location preference fields were not populated — match is based on generic PM candidate profile", 
+       "Internship description field was blank — targeted fit evaluation against a specific JD could not be performed", 
+       "Lack of a PM-focused resume summary makes it difficult for recruiters to immediately understand value proposition" 
+     ] 
+   }, 
+   "_meta": { 
+     "note": "Fit score of 42/100 reflects a blank resume and missing inputs. Resubmit with: (1) actual resume text, (2) specific skills list, (3) city/location preference, and (4) target internship JD for a precise, personalized evaluation.", 
+     "estimated_fit_score_with_complete_inputs": "65–80 if candidate has 1+ projects, relevant tools, and a structured resume" 
+   } 
+ }
